@@ -6,3 +6,7 @@ function sayHi(){
 function max(){
 	var ss = "222";
 }
+
+function mini(){
+	var ss = "mini";
+}
