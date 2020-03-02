@@ -10,3 +10,8 @@ function max(){
 function mini(){
 	var ss = "mini";
 }
+
+
+function sssss(){
+	var s="ffesfae";
+}
